@@ -1,0 +1,7 @@
+C:\Projects\MVA\C# Fun\1_Example\1 Koch\Koch\bin\Debug\Koch.exe.config
+C:\Projects\MVA\C# Fun\1_Example\1 Koch\Koch\bin\Debug\Koch.exe
+C:\Projects\MVA\C# Fun\1_Example\1 Koch\Koch\bin\Debug\Koch.pdb
+C:\Projects\MVA\C# Fun\1_Example\1 Koch\Koch\bin\Debug\SmallBasicLibrary.dll
+C:\Projects\MVA\C# Fun\1_Example\1 Koch\Koch\obj\Debug\Koch.csprojResolveAssemblyReference.cache
+C:\Projects\MVA\C# Fun\1_Example\1 Koch\Koch\obj\Debug\Koch.exe
+C:\Projects\MVA\C# Fun\1_Example\1 Koch\Koch\obj\Debug\Koch.pdb
